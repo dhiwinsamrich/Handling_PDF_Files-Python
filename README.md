@@ -55,6 +55,12 @@ This repository is licensed under the MIT License. See the [LICENSE](LICENSE) fi
 
 Join us in exploring the fascinating world of PDF file handling with Python! Connect with us on GitHub, participate in challenges, and embark on a journey of continuous learning and innovation.
 
-[![GitHub Follow](https://img.shields.io/github/followers/dhiwinsamrich?style=social)](https://github.com/dhiwinsamrich) ![Twitter Follow](https://img.shields.io/twitter/follow/dhiwinsamrich?style=social)
+[![GitHub Follow](https://img.shields.io/github/followers/dhiwinsamrich?style=social)](https://github.com/dhiwinsamrich) 
+
+![Twitter Follow](https://img.shields.io/twitter/follow/dhiwinsamrich?style=social) 
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/dhiwin-samrich-9167-jerome) 
+
+[![Instagram](https://img.shields.io/badge/Instagram-Follow-orange?logo=instagram)](https://www.instagram.com/_itz_jerome._/)
 
 ---
