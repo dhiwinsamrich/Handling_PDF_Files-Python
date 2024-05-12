@@ -1,5 +1,3 @@
-Certainly! Here's the revised format with space left for adding projects:
-
 ---
 
 <div align="center">
@@ -19,19 +17,14 @@ Welcome to the "Handling PDF Files with Python" repository! This repository prov
 ## 📂 Repository Contents
 
 ### 🛠️ Projects
-- **Project 1:**  
-- **Project 2:**  
-- **Project 3:**  
-- **Project 4:**  
-- **Project 5:**  
-- **Project 6:**  
-- **Project 7:**  
-- **Project 8:**  
-- **Project 9:**  
-- **Project 10:**  
-- **Project 11:**  
-- **Project 12:**  
-- *(More projects coming soon!)*
+1. **Convert HTML to PDF**
+   - Description: This project enables you to convert HTML files to PDF format programmatically using Python. It provides a seamless way to generate PDF documents from HTML content, preserving the structure and styling of the original HTML files. Whether you're converting web pages, reports, or documentation, this tool simplifies the process and enhances your PDF file handling capabilities.
+
+2. **Convert PDF to DOCX**
+   - Description: Convert PDF files to DOCX (Microsoft Word) format with ease using Python. This project offers a powerful solution for extracting text, images, and formatting from PDF documents and converting them into editable Word documents. Whether you need to edit PDF content in Word, collaborate on documents, or perform further analysis, this tool streamlines the conversion process and empowers your PDF file handling workflow.
+
+3. **Convert PDF to Image**
+   - Description: Extract images from PDF files or convert entire PDF pages to image format effortlessly. This project provides a versatile solution for extracting visual content from PDF documents and converting it into image files such as PNG or JPEG. Whether you're extracting images for analysis, presentation, or sharing purposes, this tool offers flexibility and efficiency in your PDF file handling tasks.
 
 ### 📚 Resources
 - Detailed tutorials and guides for each project.
@@ -65,5 +58,3 @@ Join us in exploring the fascinating world of PDF file handling with Python! Con
 [![GitHub Follow](https://img.shields.io/github/followers/dhiwinsamrich?style=social)](https://github.com/dhiwinsamrich) ![Twitter Follow](https://img.shields.io/twitter/follow/dhiwinsamrich?style=social)
 
 ---
-
-Feel free to add your projects as they are developed!
