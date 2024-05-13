@@ -12,11 +12,14 @@ Welcome to the "Handling PDF Files with Python" repository! This repository prov
 
 </div>
 
+Certainly! Here's the updated section with the descriptions for the next three projects:
+
 ---
 
 ## 📂 Repository Contents
 
 ### 🛠️ Projects
+
 1. **Convert HTML to PDF**
    - Description: This project enables you to convert HTML files to PDF format programmatically using Python. It provides a seamless way to generate PDF documents from HTML content, preserving the structure and styling of the original HTML files. Whether you're converting web pages, reports, or documentation, this tool simplifies the process and enhances your PDF file handling capabilities.
 
@@ -25,6 +28,15 @@ Welcome to the "Handling PDF Files with Python" repository! This repository prov
 
 3. **Convert PDF to Image**
    - Description: Extract images from PDF files or convert entire PDF pages to image format effortlessly. This project provides a versatile solution for extracting visual content from PDF documents and converting it into image files such as PNG or JPEG. Whether you're extracting images for analysis, presentation, or sharing purposes, this tool offers flexibility and efficiency in your PDF file handling tasks.
+
+4. **Encrypt PDF**
+   - Description: Enhance the security of your PDF documents by encrypting them with strong encryption algorithms. This project enables you to protect sensitive information in PDF files by applying password-based encryption or certificate-based encryption. Whether you're sharing confidential reports, contracts, or financial statements, encrypting PDFs adds an extra layer of security to your documents.
+
+5. **Extract PDF Metadata**
+   - Description: Extract metadata information from PDF files using Python. This project allows you to retrieve details such as author, title, subject, keywords, creation date, modification date, and more from PDF documents. Whether you're cataloging documents, performing forensic analysis, or automating document management tasks, extracting PDF metadata provides valuable insights into your PDF files.
+
+6. **Extract Text from PDF**
+   - Description: Extract text content from PDF files with precision and efficiency. This project utilizes text extraction techniques to parse PDF documents and retrieve textual information, enabling you to analyze, search, or process text data from PDF files. Whether you're extracting text for indexing, data mining, or text analytics, this tool simplifies the extraction process and enhances your PDF file handling capabilities.
 
 ### 📚 Resources
 - Detailed tutorials and guides for each project.
