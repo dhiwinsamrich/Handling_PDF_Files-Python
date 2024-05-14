@@ -37,6 +37,19 @@ Certainly! Here's the updated section with the descriptions for the next three p
 
 6. **Extract Text from PDF**
    - Description: Extract text content from PDF files with precision and efficiency. This project utilizes text extraction techniques to parse PDF documents and retrieve textual information, enabling you to analyze, search, or process text data from PDF files. Whether you're extracting text for indexing, data mining, or text analytics, this tool simplifies the extraction process and enhances your PDF file handling capabilities.
+  
+7. **Highlight Redact Text**
+   - Description: Highlight or redact sensitive information in PDF documents using Python. This project provides tools to programmatically identify and annotate text within PDF files, allowing you to highlight important sections or redact confidential information. Whether you're reviewing documents, preparing presentations, or sharing reports, this tool helps you control the visibility of content within your PDFs.
+
+8. **PDF Compressor**
+   - Description: Compress large PDF files to reduce file size and optimize storage and transmission. This project offers algorithms and techniques to efficiently compress PDF documents while preserving visual quality and readability. Whether you're archiving documents, distributing reports, or optimizing web content, compressing PDFs improves efficiency and reduces resource consumption.
+
+9. **PDF Merger**
+   - Description: Merge multiple PDF files into a single consolidated document with ease. This project provides functionalities to concatenate PDF files, rearrange pages, and merge documents based on specified criteria. Whether you're consolidating reports, assembling presentations, or combining files for archival purposes, merging PDFs simplifies document management and enhances organization.
+
+---
+
+Feel free to add more projects or customize the design further to align with your preferences and branding!
 
 ### 📚 Resources
 - Detailed tutorials and guides for each project.
