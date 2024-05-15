@@ -46,6 +46,18 @@ Certainly! Here's the updated section with the descriptions for the next three p
 
 9. **PDF Merger**
    - Description: Merge multiple PDF files into a single consolidated document with ease. This project provides functionalities to concatenate PDF files, rearrange pages, and merge documents based on specified criteria. Whether you're consolidating reports, assembling presentations, or combining files for archival purposes, merging PDFs simplifies document management and enhances organization.
+  
+Certainly! Here are the descriptions for the additional three projects:
+
+10. **PDF OCR**
+   - Description: Perform Optical Character Recognition (OCR) on PDF documents to extract text from scanned images or non-selectable text. This project utilizes OCR engines and libraries to recognize text within PDF files, enabling you to extract searchable and editable text content. Whether you're digitizing scanned documents, extracting text for analysis, or improving accessibility, PDF OCR enhances your PDF file handling capabilities.
+
+11. **PDF Signer**
+    - Description: Digitally sign PDF documents to authenticate and secure them using cryptographic signatures. This project provides tools to create digital signatures, apply them to PDF files, and verify the authenticity of signed documents. Whether you're signing contracts, agreements, or official documents, PDF signing ensures integrity, non-repudiation, and compliance with electronic signature standards.
+
+12. **Split PDF**
+    - Description: Split large PDF files into smaller segments or extract specific pages to create new PDF documents. This project offers functionalities to divide PDF files based on page ranges, bookmarks, or content criteria. Whether you're segmenting documents for distribution, extracting sections for analysis, or organizing content for archival purposes, splitting PDFs enhances document management and accessibility.
+
 
 ---
 
